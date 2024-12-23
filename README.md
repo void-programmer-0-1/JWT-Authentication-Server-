@@ -1,4 +1,4 @@
-### FASTAPI WEGSERVER with JWT Authentication 
+### FASTAPI SERVER with JWT Authentication 
 
 This works but not sure how but it works.
 Need to test all the enpoint more.
